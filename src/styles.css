@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20vh;
+}
+
+body {
+  background: linear-gradient(#cac531, #f3f9a7) no-repeat;
+  height: 100vh;
+}
+
+input {
+  margin: 10px;
+}
